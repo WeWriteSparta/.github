@@ -5,10 +5,11 @@
 
   -> 누군가 시작한 소설을 함께 완성시켜보세요!
 
-1. ⭐방장이 문단 수 를 정하고 첫번째 문단을 작성 하면 이어서 문장들을 작성해 나갈 수 있어요!
+1. ⭐첫 작성자가 소설의 문단 수를 정하고 첫번째 문단을 작성 하면 이어서 문장들을 작성해 나갈 수 있어요!
 2. 🙅‍♀️ 먼저 작성중인 문단은 끼어들 수 없어요!
 3. 🚩 정해진 문단 수가 다 차게 되면 소설은 완성됩니다!!
-4. 👍 소설에 평점을 매길 수 있고, 최고의 문장에 좋아요 를 누를 수 있어요!
+4. 👍 소설에 좋아요와 북마크는 물론, 최고의 문장에 좋아요 를 누를 수 있어요!
+5. 👑 사이트를 지속적으로 활동하며 초보 작가에서 프로 작가로 계정을 성장시킬 수 있어요!
 
 ## 프로젝트 아키텍쳐
 
@@ -18,17 +19,6 @@
 ## 프로젝트 타임 라인
 
 
-[프로젝트 구상 및 설계](https://www.notion.so/67dfbc939fb949c2be8be8971075aee3)
-
-[와이어 프레임을 통한 view 구현](https://www.notion.so/view-87a0cf065e344c1fbc7a3e1dba51d76d)
-
-[게시물 CRUD 구현](https://www.notion.so/CRUD-a6577b88432d4d599885f84268b2df70)
-
-[댓글, 문단 CRUD 구현](https://www.notion.so/CRUD-ff41c9de8abb43cc94b18a40e87e5a9a)
-
-[디자인 구현](https://www.notion.so/627fb6d1bcd74087ad508919319b74d8)
-
-[Socket 연결 및 구독 / 데이터 전송 구현](https://www.notion.so/Socket-946f6ba7c35f4dd383bedd9d9aa4dfef)
 
 ## 완성 페이지
 
@@ -42,9 +32,8 @@ https://www.wewrite.co.kr/
 
 > 1. 로그인 페이지
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c46b4594-e2ce-4ec0-a31a-54a2066837dd/Untitled.png)
+![image](https://user-images.githubusercontent.com/73277351/161549077-fefc9855-887b-4cfb-939d-3a38d20b6e4c.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/88c7641f-527c-40eb-ada8-45ad56eb74cc/Untitled.png)
 
 - 기능
     - Input을 이용하여 email과 password를 입력 받아 로그인 API에 전송
@@ -55,9 +44,7 @@ https://www.wewrite.co.kr/
 > 2.회원가입
 1. 페이지 화면
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09751352-f728-4ff1-a4f8-d6d68c48ac1e/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0cb33431-455c-4397-aab7-dbb0a63c3db4/Untitled.png)
+![image](https://user-images.githubusercontent.com/73277351/161549196-12bfa1cc-bd72-4b6a-8b82-d6b683efa43a.png)
 
 1. 기능
 - input을 통하여 데이터 입력
@@ -76,7 +63,7 @@ https://www.wewrite.co.kr/
 > 3. 풋터
 > 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1f4da9c-d588-4bd6-9ee1-6fbebafdc0da/Untitled.png)
+![image](https://user-images.githubusercontent.com/73277351/161549245-518135d0-1040-4a6f-b93e-02c098500824.png)
 
 - 메인 : 메인페이지로 이동
 - 완결작품 : 완결된 작품 리스트로 이동
@@ -89,12 +76,10 @@ https://www.wewrite.co.kr/
 > 4. 메인페이지
 > 
 1. 페이지 화면
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a894b23-f041-463c-a1fc-12957b3b6032/Untitled.png)
+![image](https://user-images.githubusercontent.com/73277351/161549293-7a8301d3-9c9b-4a63-b6e7-5d2b2c0dc701.png)
 
 ---
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b064a94-11ef-4e72-bc81-04e674b8e194/Untitled.png)
+![image](https://user-images.githubusercontent.com/73277351/161549315-adffb376-a2a2-4b51-b6bc-132ea69de2cf.png)
 
 1. 기능
 - Swiper React를 사용하여  메인 페이지 추천 게시물 출력
@@ -113,7 +98,7 @@ https://www.wewrite.co.kr/
     - 테마를 선택하면 해당 테마의 소설이 나온다.
     
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2092940a-2cb2-4883-bd17-3aa913bcc9db/Untitled.png)
+![image](https://user-images.githubusercontent.com/73277351/161549575-6973831e-9f23-431b-8ca6-35c7234a5d9f.png)
 
 - 헤더의 종모양 아이콘 클릭 시 알림창으로 이동
     - 알림의 종류는 총 5가지
@@ -123,13 +108,13 @@ https://www.wewrite.co.kr/
         4. 자신이 작성한 소설의 다음 문단이 작성
         5. 자신이 작성한 소설의 완성
         
-        ![22.03.30 노션추가용.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7c11f53-58c1-460a-9f40-cec5583b9626/22.03.30_노션추가용.png)
+        ![image](https://user-images.githubusercontent.com/73277351/161549694-d5812c54-8572-4f88-858b-b4cc9796abc8.png)
         
     
     - 공지·이벤트 확인 가능
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9dc0e78a-5df8-4c4f-ac19-2bc7987e9f66/Untitled.png)
-        
+        ![image](https://user-images.githubusercontent.com/73277351/161549701-ce5313c3-3e60-46ce-a19c-9d460f80f00e.png)
+
 
 ---
 
@@ -137,7 +122,7 @@ https://www.wewrite.co.kr/
 > 
 1. 페이지 화면
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/952e870b-2bd2-4f74-9693-1bb2a69d4e65/Untitled.png)
+![image](https://user-images.githubusercontent.com/73277351/161549786-aaec273f-254f-4240-a3a6-f599374e5e18.png)
 
 1. 기능
     - 최신순 / 좋아요 순으로 리스트 정렬 가능
@@ -150,7 +135,7 @@ https://www.wewrite.co.kr/
 > 
 1. 페이지 화면
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1c137f6b-7511-4a45-80dc-9c0ee7480440/Untitled.png)
+![image](https://user-images.githubusercontent.com/73277351/161549812-f0969fdf-3ee6-4056-8d80-bc827b4ad92c.png)
 
 1. 기능
     - 표지 변경
@@ -171,31 +156,32 @@ https://www.wewrite.co.kr/
 > 
 1. 페이지 화면
 
-![GIF 2022-04-01 오후 6-50-44.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d543ec9d-171c-4bd6-8109-3d5f3e443105/GIF_2022-04-01_오후_6-50-44.gif)
+![GIF 2022-04-01 오후 6-50-44](https://user-images.githubusercontent.com/73277351/161550102-b61b48fd-40b5-41f7-b8d9-546afa76e89b.gif)
 
                                                                          작성 시작
 
-![GIF 2022-04-01 오후 6-52-58.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/656e2864-a040-4102-b4fc-731884c16b91/GIF_2022-04-01_오후_6-52-58.gif)
+![GIF 2022-04-01 오후 6-52-58](https://user-images.githubusercontent.com/73277351/161550165-cded5f47-6995-4199-bb78-cde3035c1d00.gif)
 
                                                        다른 유저가 작성을 시작했을 때
 
-![GIF 2022-04-01 오후 6-53-27.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/023e962c-1574-4e5d-8456-4e5d90c69358/GIF_2022-04-01_오후_6-53-27.gif)
+![GIF 2022-04-01 오후 6-53-27](https://user-images.githubusercontent.com/73277351/161550183-419b3029-a18c-4f8f-82a8-b3c41466b8c2.gif)
 
                                                                          작성 완료
+![GIF 2022-04-01 오후 6-53-59](https://user-images.githubusercontent.com/73277351/161550209-7afdcac1-8b69-4a50-812a-58337142cf7e.gif)
 
-![GIF 2022-04-01 오후 6-53-59.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bdb9ca79-8c9a-48d6-be76-cf8e145cb844/GIF_2022-04-01_오후_6-53-59.gif)
 
                                          다른 사람이 작성을 완료했을 경우 자동으로 렌더링
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f02f8f94-9979-4dc2-afa4-3e28baf0d954/Untitled.png)
+![image](https://user-images.githubusercontent.com/73277351/161550372-5fce2f2b-cac5-4631-8fbe-c932972722ec.png)
 
 미완성 작품은 작성 버튼이 있다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d0a90fb-154a-4720-9115-1bbb828442be/Untitled.png)
+
+![image](https://user-images.githubusercontent.com/73277351/161550407-21bd1481-287d-4100-a516-7a25eb3e2bfd.png)
 
 완성 작품은 작성 버튼이 없다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1b979281-ed01-4863-bbe0-7a084c04938f/Untitled.png)
+![image](https://user-images.githubusercontent.com/73277351/161550496-bf22dac2-6da3-47be-9349-e135b2a2b393.png)
 
                                              댓글 보기 버튼을 통해 댓글창을 띄울 수 있다.
 
@@ -217,8 +203,8 @@ https://www.wewrite.co.kr/
 > 8. 유저페이지(본인 / 타인)
 > 
 1. 페이지 화면
+![GIF 2022-04-01 오후 7-11-52](https://user-images.githubusercontent.com/73277351/161550558-605728f0-6f18-4f89-a58a-2d2e33121f5f.gif)
 
-![GIF 2022-04-01 오후 7-11-52.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/caad90de-4b6c-430c-a563-533ded048daa/GIF_2022-04-01_오후_7-11-52.gif)
 
 1. 기능
     - 참여작, 북마크한 작품, 좋아요한 작품 확인 가능
@@ -232,7 +218,7 @@ https://www.wewrite.co.kr/
 > 
 1. 페이지 화면
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/397e7fb1-b64b-4e6d-8437-57994a011f03/Untitled.png)
+![image](https://user-images.githubusercontent.com/73277351/161550596-875a9f43-1509-479e-aaa9-75eba79494b0.png)
 
 1. 기능
     - 프로필 사진, 닉네임, 소개 수정 가능.
