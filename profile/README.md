@@ -12,8 +12,8 @@
 
 ## 프로젝트 아키텍쳐
 
+![image](https://user-images.githubusercontent.com/73277351/161547541-a292b456-e6e8-43c5-a329-aff2aa52ec81.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/88e5dd6e-baf5-4fd3-89ab-33ca9b3dbd09/Untitled.png)
 
 ## 프로젝트 타임 라인
 
@@ -32,15 +32,10 @@
 
 ## 완성 페이지
 
+![Meta](https://user-images.githubusercontent.com/73277351/161547752-ffa7e011-bfe8-40bc-bc71-df313a810542.png)
 
 [We-Write](https://www.wewrite.co.kr/)
-
-### Frontend Git : https://github.com/peppermintt0504/Project
-
-### Backend Git  : https://github.com/binscot/HanghaeFinal
-
-1. 데모 영상
-
+https://www.wewrite.co.kr/
 
 # 1. 기능 설명
 
