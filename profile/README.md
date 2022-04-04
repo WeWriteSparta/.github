@@ -24,7 +24,7 @@
 
 ## 완성 페이지
 
-![Meta](https://user-images.githubusercontent.com/73277351/161547752-ffa7e011-bfe8-40bc-bc71-df313a810542.png)
+![image](https://user-images.githubusercontent.com/73277351/161551041-9bbb1480-6abf-4c28-a1a6-0072012a32e4.png)
 
 [We-Write](https://www.wewrite.co.kr/)
 https://www.wewrite.co.kr/
