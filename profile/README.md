@@ -99,9 +99,10 @@ https://www.wewrite.co.kr/
     - 테마를 선택하면 해당 테마의 소설이 나온다.
     
 
-![image](https://user-images.githubusercontent.com/73277351/161549575-6973831e-9f23-431b-8ca6-35c7234a5d9f.png)
 
 - 헤더의 종모양 아이콘 클릭 시 알림창으로 이동
+![image](https://user-images.githubusercontent.com/73277351/161549575-6973831e-9f23-431b-8ca6-35c7234a5d9f.png)
+
     - 알림의 종류는 총 5가지
         1. 자신이 작성한 소설의 좋아요
         2. 자신이 작성한 소설의 북마크
