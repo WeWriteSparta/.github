@@ -38,18 +38,17 @@ https://www.wewrite.co.kr/
 
 
 - 기능
-    - Input을 이용하여 email과 password를 입력 받아 로그인 API에 전송
+    - Input box를 이용하여 email과 password를 입력 받아 로그인 API에 전송
     - 로그인을 시도하여 성공하면 메인페이지로 이동
-    - 로그인이 실패할 경우 오른쪽과 같이 input box에 경고를 준다.
+    - 로그인이 실패할 경우 오른쪽과 같이 input box 아래에 경고를 준다.
 ---
 
 > 2.회원가입
-1. 페이지 화면
 
 ![image](https://user-images.githubusercontent.com/73277351/161549196-12bfa1cc-bd72-4b6a-8b82-d6b683efa43a.png)
 
-1. 기능
-- input을 통하여 데이터 입력
+- 기능
+- input box를 통하여 데이터 입력
 - 이메일 중복체크, 이메일 형식 체크, 이메일 인증 코드 보내기, 인증번호 확인
     - 이메일 중복 체크 : API에 이메일 데이터를 전송하여 중복 여부 확인(추가하세요)
     - 이메일 형식 체크 : 정규식을 이용하여 이메일 형식을 체크
@@ -58,7 +57,7 @@ https://www.wewrite.co.kr/
     - 디바운스를 이용하여 최소의 검증으로 닉네임 중복 체크
 - 비밀번호 형식 체크와 비밀번호 확인 체크
     - 디바운스와 정규식을 통하여 비밀번호 형식 일치 여부를 실시간으로 사용자에게 띄워준다.
-    - 비밀번호 확인란의 데이터도 위와 같이 비밀번호에 입력된 데이터와 일치 여부를 띄워준다.
+    - 비밀번호 확인(input box)의 데이터도 위와 같이 비밀번호에 입력된 데이터와 일치 여부를 띄워준다.
 
 ---
 
@@ -77,13 +76,12 @@ https://www.wewrite.co.kr/
 
 > 4. 메인페이지
 > 
-1. 페이지 화면
 ![image](https://user-images.githubusercontent.com/73277351/161549293-7a8301d3-9c9b-4a63-b6e7-5d2b2c0dc701.png)
 
 ---
 ![image](https://user-images.githubusercontent.com/73277351/161549315-adffb376-a2a2-4b51-b6bc-132ea69de2cf.png)
 
-1. 기능
+- 기능
 - Swiper React를 사용하여  메인 페이지 추천 게시물 출력
     - 추천 게시물의 기준은 좋아요가 많은 Top 6 게시물
     - 5초 간격으로 슬라이드가 자동으로 다음 슬라이드로 넘어감
